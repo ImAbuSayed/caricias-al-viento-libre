@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricias-al-viento-libre/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Caricias al viento libre](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-al-viento-libre/) |
+| **Get License** | [Official Music Licensing for Caricias al viento libre](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-al-viento-libre/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus caricias al viento libre me van a llevar
+> Noches de Madrid, tu piel me sabe a libertad
+> Bajo las estrellas, no hay nadie que nos pueda parar
+> Solo tú y yo, bailando hasta el amanecer
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -108,7 +111,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
 | **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
