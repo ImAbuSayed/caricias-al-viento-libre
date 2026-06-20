@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricias-al-viento-libre/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Caricias al viento libre](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-al-viento-libre/) |
+| **Get License** | [Get a Licensing Quote for Caricias al viento libre](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-al-viento-libre/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `665b6b7501b2538597403c098cee1e7e57b5668ed5266b2ce6e6c7b7e5f35075` |
 | **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
